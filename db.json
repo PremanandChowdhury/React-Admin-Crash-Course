@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the Post One body",
+      "publishedAt": "30-10-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the Post Two body",
+      "publishedAt": "5-11-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the Post Three body",
+      "publishedAt": "11-11-2020"
+    },
+    {
+      "id": "4",
+      "name": "Post Four",
+      "body": "This is the Post Four body",
+      "publishedAt": "15-11-2020"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Premanand Chowdhury",
+      "email": "premanandchowdhury10@gmail.com"
+    }
+  ]
+}
